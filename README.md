@@ -1,2 +1,11 @@
-# first-python-project
-Learning Python, bots and automation
+# First Python Project
+
+This is my first GitHub respository.
+
+## Goals
+- Learn Python
+- Build bots
+- Automate tasks
+- Make simple games
+
+  ## Status
